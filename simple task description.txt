@@ -1,0 +1,18 @@
+Hi guys, in this Repo i want you to upload 2 files:
+    1- A normal text file including your Full name.
+    2- Any other file of any type containing anything (photo,code,word document...etc)
+
+Make you sure to follow these steps:
+    1-create a new branch and work on it *never work on the main branch*
+    2-upload the files and make any needed edits
+    3-git add .
+    4-git commit .
+    5-switch to main branch 
+    6-merge branches 
+    7-push 
+
+After that you should see the files uploaded on your repo after Refreshing the page
+now the only remaining thing is doing a Pull Request (PR)
+
+*Remember* when doing a commit the command is: git commit -m "msg"
+YOU MUST ADD A MESSAGE INSTEAD OF MSG in "msg"
